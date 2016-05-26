@@ -1,0 +1,25 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "language-javascript"
+      "exception-reporting"
+      "metrics"
+    ]
+    packagesWithKeymapsDisabled: []
+    themes: [
+      "nucleus-dark-ui"
+      "oceanic-next"
+    ]
+  editor:
+    preferredLineLength: 100
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabType: "soft"
+  "linter-eslint":
+    disableWhenNoEslintConfig: false
+    welcome:
+      showOnStartup: false
+  welcome:
+    showOnStartup: false
