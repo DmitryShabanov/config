@@ -1,25 +1,25 @@
 "*":
   core:
     disabledPackages: [
-      "wrap-guide"
       "language-javascript"
       "exception-reporting"
       "metrics"
     ]
-    packagesWithKeymapsDisabled: []
+    packagesWithKeymapsDisabled: [
+      "atom-ternjs"
+    ]
     themes: [
-      "nucleus-dark-ui"
+      "one-dark-ui"
       "oceanic-next"
     ]
   editor:
+    fontFamily: "Menlo"
     preferredLineLength: 100
     showIndentGuide: true
-    softWrap: true
-    softWrapAtPreferredLineLength: true
-    tabType: "soft"
-  "linter-eslint":
-    disableWhenNoEslintConfig: false
-    welcome:
-      showOnStartup: false
+    zoomFontWhenCtrlScrolling: true
+  "fuzzy-finder":
+    ignoredNames: [
+      "node_modules/**"
+    ]
   welcome:
     showOnStartup: false
