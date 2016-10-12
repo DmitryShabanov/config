@@ -1,13 +1,13 @@
 "*":
   core:
     disabledPackages: [
-      "language-javascript"
       "exception-reporting"
       "metrics"
     ]
     packagesWithKeymapsDisabled: [
-      "atom-ternjs"
+      "emmet"
     ]
+    telemetryConsent: "no"
     themes: [
       "one-dark-ui"
       "oceanic-next"
@@ -21,5 +21,25 @@
     ignoredNames: [
       "node_modules/**"
     ]
+  linter:
+    showErrorPanel: false
   welcome:
     showOnStartup: false
+".js.regexp.replacement.source":
+  editor:
+    preferredLineLength: 100
+".js.regexp.source":
+  editor:
+    preferredLineLength: 100
+".js.source":
+  editor:
+    preferredLineLength: 100
+".lisp.source":
+  editor:
+    preferredLineLength: 100
+".plist.source":
+  editor:
+    preferredLineLength: 100
+".plist.text.xml":
+  editor:
+    preferredLineLength: 100
