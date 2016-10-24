@@ -1,4 +1,7 @@
 "*":
+  "atom-css-comb":
+    commonConfigs: "/Users/dmitrij/.csscomb.json"
+    readyMadeConfigs: "zen"
   core:
     disabledPackages: [
       "exception-reporting"

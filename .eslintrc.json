@@ -12,6 +12,6 @@
         "semi": ["error", "always"],
         "comma-dangle": "off",
         "no-console": "off",
-        "no-unused-vars": ["warn", { "vars": "all", "args": "after-used" }]
+        "no-unused-vars": ["off", { "vars": "all", "args": "after-used" }]
     }
 }

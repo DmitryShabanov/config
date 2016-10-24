@@ -1,6 +1,6 @@
 # Atom
 
-Configs and packages for GitHub Atom
+Configs and packages for some text editors
 
 ## Packages
 
