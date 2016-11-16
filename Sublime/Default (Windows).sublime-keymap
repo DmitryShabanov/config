@@ -1,9 +1,0 @@
-[
-	{
-		"keys": ["ctrl+alt+l"],
-		"command": "reindent",
-		"args": {
-			"single_line": false
-		}
-	}
-]

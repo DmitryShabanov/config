@@ -1,8 +1,0 @@
-{
-	"disable_tab_abbreviations_for_scopes": "source.css",
-	"extensions":
-	[
-		"css"
-	],
-	"show_css_completions": false
-}
