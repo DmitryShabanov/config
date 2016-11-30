@@ -1,17 +1,21 @@
 {
-    "env": {
-        "browser": true,
-        "es6": true,
-        "node": true
-    },
-    "extends": "eslint:recommended",
-    "rules": {
-        "indent": ["warn", 2],
-        "linebreak-style": ["error", "unix"],
-        "quotes": ["error", "single"],
-        "semi": ["error", "always"],
-        "comma-dangle": "off",
-        "no-console": "off",
-        "no-unused-vars": ["off", { "vars": "all", "args": "after-used" }]
-    }
+  "extends": "airbnb",
+  "plugins": [
+    "react",
+    "jsx-a11y",
+    "import"
+  ],
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "indent": ["warn", 2],
+    "linebreak-style": ["error", "unix"],
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "comma-dangle": "off",
+    "no-console": "off",
+    "no-unused-vars": ["off", { "vars": "all", "args": "after-used" }]
+  }
 }

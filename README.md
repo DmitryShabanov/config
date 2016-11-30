@@ -1,10 +1,9 @@
 # Configs
 
-Some configs and packages for Atom text editors
+Some configs and packages for Atom text editor
 
 ## Packages
 
-- [angularjs](https://atom.io/packages/angularjs)
 - [atom-css-comb](https://atom.io/packages/atom-css-comb)
 - [atom-ternjs](https://atom.io/packages/atom-ternjs)
 - [emmet](https://atom.io/packages/emmet)
