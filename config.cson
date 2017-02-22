@@ -6,6 +6,7 @@
     disabledPackages: [
       "exception-reporting"
       "metrics"
+      "language-javascript"
     ]
     packagesWithKeymapsDisabled: [
       "emmet"
@@ -16,7 +17,6 @@
       "oceanic-next"
     ]
   editor:
-    fontFamily: "Menlo"
     preferredLineLength: 100
     showIndentGuide: true
     zoomFontWhenCtrlScrolling: true
@@ -24,25 +24,5 @@
     ignoredNames: [
       "node_modules/**"
     ]
-  linter:
-    showErrorPanel: false
   welcome:
     showOnStartup: false
-".js.regexp.replacement.source":
-  editor:
-    preferredLineLength: 100
-".js.regexp.source":
-  editor:
-    preferredLineLength: 100
-".js.source":
-  editor:
-    preferredLineLength: 100
-".lisp.source":
-  editor:
-    preferredLineLength: 100
-".plist.source":
-  editor:
-    preferredLineLength: 100
-".plist.text.xml":
-  editor:
-    preferredLineLength: 100
