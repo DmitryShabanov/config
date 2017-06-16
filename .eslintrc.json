@@ -16,6 +16,8 @@
     "semi": ["error", "always"],
     "comma-dangle": "off",
     "no-console": "off",
-    "no-unused-vars": ["off", { "vars": "all", "args": "after-used" }]
+    "no-unused-vars": ["off", { "vars": "all", "args": "after-used" }],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/prefer-stateless-function": [0, { "ignorePureComponents": true }]
   }
 }
