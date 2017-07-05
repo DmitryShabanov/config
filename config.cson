@@ -2,14 +2,20 @@
   "atom-css-comb":
     commonConfigs: "/Users/dmitrij/.csscomb.json"
     readyMadeConfigs: "zen"
+  "atom-ternjs":
+    excludeLowerPriorityProviders: true
+  "autocomplete-plus":
+    includeCompletionsFromAllBuffers: false
   core:
+    closeDeletedFileTabs: true
     disabledPackages: [
-      "exception-reporting"
       "metrics"
       "language-javascript"
     ]
     packagesWithKeymapsDisabled: [
+      "atom-ternjs"
       "emmet"
+      "highlight-selected"
     ]
     telemetryConsent: "no"
     themes: [
@@ -17,12 +23,17 @@
       "oceanic-next"
     ]
   editor:
-    preferredLineLength: 100
+    preferredLineLength: 90
     showIndentGuide: true
-    zoomFontWhenCtrlScrolling: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "9ead58ad-0e10-47b4-b214-710d81ae51fa"
   "fuzzy-finder":
     ignoredNames: [
       "node_modules/**"
     ]
+  "linter-ui-default":
+    panelHeight: 69
   welcome:
     showOnStartup: false
