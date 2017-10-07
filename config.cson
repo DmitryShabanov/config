@@ -1,39 +1,33 @@
 "*":
   "atom-css-comb":
-    commonConfigs: "/Users/dmitrij/.csscomb.json"
+    commonConfigs: "/Users/dmitry/.csscomb.json"
     readyMadeConfigs: "zen"
   "atom-ternjs":
     excludeLowerPriorityProviders: true
-  "autocomplete-plus":
-    includeCompletionsFromAllBuffers: false
   core:
     closeDeletedFileTabs: true
     disabledPackages: [
-      "metrics"
       "language-javascript"
     ]
     packagesWithKeymapsDisabled: [
-      "atom-ternjs"
       "emmet"
-      "highlight-selected"
     ]
-    telemetryConsent: "no"
+    telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
       "oceanic-next"
     ]
   editor:
-    preferredLineLength: 90
+    preferredLineLength: 100
     showIndentGuide: true
     softWrap: true
     softWrapAtPreferredLineLength: true
+    zoomFontWhenCtrlScrolling: false
   "exception-reporting":
-    userId: "9ead58ad-0e10-47b4-b214-710d81ae51fa"
+    userId: "276092c4-1009-46ec-8be0-421fa9a64761"
   "fuzzy-finder":
     ignoredNames: [
       "node_modules/**"
     ]
-  "linter-ui-default":
-    panelHeight: 69
   welcome:
     showOnStartup: false
