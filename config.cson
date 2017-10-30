@@ -1,6 +1,6 @@
 "*":
   "atom-css-comb":
-    commonConfigs: "/Users/dmitry/.csscomb.json"
+    commonConfigs: "/Users/dmitry/.atom/.csscomb.json"
     readyMadeConfigs: "zen"
   "atom-ternjs":
     excludeLowerPriorityProviders: true
