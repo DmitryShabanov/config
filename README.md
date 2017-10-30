@@ -6,6 +6,7 @@ Some configs and packages for Atom text editor
 
 - [atom-css-comb](https://atom.io/packages/atom-css-comb)
 - [atom-ternjs](https://atom.io/packages/atom-ternjs)
+- [hyperclick](https://atom.io/packages/hyperclick)
 - [emmet](https://atom.io/packages/emmet)
 - [file-icons](https://atom.io/packages/file-icons)
 - [highlight-selected](https://atom.io/packages/highlight-selected)
