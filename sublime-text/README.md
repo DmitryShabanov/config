@@ -17,7 +17,7 @@ Configs for Sublime Text editor
 - [Sass](https://packagecontrol.io/packages/Sass)
 - [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
-- [Sublime​Linter-eslint](https://packagecontrol.io/packages/SublimeLinter-eslint)
+- [Sublime​Linter-contrib-eslint_d](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint_d)
 
 ## Themes
 
