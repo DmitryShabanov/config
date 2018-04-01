@@ -1,21 +1,8 @@
 # Configs
 
-Some configs and packages for Atom text editor
+Repository with configs for text editors
 
-## Packages
+## Editors
 
-- [atom-css-comb](https://atom.io/packages/atom-css-comb)
-- [atom-ternjs](https://atom.io/packages/atom-ternjs)
-- [hyperclick](https://atom.io/packages/hyperclick)
-- [emmet](https://atom.io/packages/emmet)
-- [file-icons](https://atom.io/packages/file-icons)
-- [highlight-selected](https://atom.io/packages/highlight-selected)
-- [language-babel](https://atom.io/packages/language-babel)
-- [linter](https://atom.io/packages/linter)
-- [linter-eslint](https://atom.io/packages/linter-eslint)
-- [pigments](https://atom.io/packages/pigments)
-
-## Themes
-
-- [oceanic-next](https://atom.io/themes/oceanic-next)
-- [one-dark-ui](https://atom.io/themes/one-dark-ui)
+- [Atom](https://github.com/DmitryShabanov/Configs/blob/master/atom)
+- [Sublime Text](https://github.com/DmitryShabanov/Configs/blob/master/sublime-text)

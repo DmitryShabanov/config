@@ -3,8 +3,8 @@
   "env": {
     "browser": true
   },
+  "parser": "babel-eslint",
   "rules": {
-    "no-unused-vars": 1,
-    "arrow-parens": [2, "always"]
+    "no-unused-vars": 1
   }
 }
