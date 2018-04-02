@@ -26,6 +26,7 @@
 	"material_theme_bullet_tree_indicator": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
+	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
@@ -33,7 +34,7 @@
 	"material_theme_titlebar": true,
 	"rulers":
 	[
-		90
+		100
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 2,
