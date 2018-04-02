@@ -1,6 +1,9 @@
 {
 	"afn_use_project_root": true,
 	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_cycle": true,
+	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"drag_text": false,
@@ -10,6 +13,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"CSS",
 		"JavaScript",
 		"Vintage"
 	],
