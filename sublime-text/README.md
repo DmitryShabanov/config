@@ -2,6 +2,10 @@
 
 Configs for Sublime Text editor
 
+## Package manager
+
+- Install [Package Control](https://packagecontrol.io/installation#st3)
+
 ## Packages
 
 - [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
