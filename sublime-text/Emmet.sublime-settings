@@ -1,4 +1,4 @@
 {
   "show_css_completions": false,
-  "disable_tab_abbreviations_for_scopes": ["source.scss", "source.js", "text.html"]
+  "disabled_keymap_actions": "expand_abbreviation_by_tab"
 }

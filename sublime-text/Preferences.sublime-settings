@@ -33,6 +33,7 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"index_files": false,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"material_theme_accent_pink": true,
@@ -52,6 +53,7 @@
 		100
 	],
 	"shift_tab_unindent": true,
+	"show_definitions": false,
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,

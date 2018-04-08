@@ -17,4 +17,8 @@
     "keys": ["super+\\"],
     "command": "toggle_side_bar"
   },
+  {
+    "keys": ["super+shift+a"],
+    "command": "sublime_linter_panel_toggle"
+  }
 ]

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-console.log(${1:'message'});${0}
+console.log(${1:'${2:message}'});${0}
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>log</tabTrigger>
