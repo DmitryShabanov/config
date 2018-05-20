@@ -24,6 +24,7 @@
 	[
 		"CSS",
 		"JavaScript",
+		"Sass",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -48,10 +49,11 @@
 	"material_theme_titlebar": true,
 	"rulers":
 	[
-		100
+		90
 	],
 	"shift_tab_unindent": true,
 	"show_definitions": false,
+	"smart_indent": false,
 	"tab_completion": false,
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
@@ -59,5 +61,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"word_wrap": true,
-	"wrap_width": 100
+	"wrap_width": 90
 }

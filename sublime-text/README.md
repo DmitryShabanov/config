@@ -20,6 +20,7 @@ Configs for Sublime Text editor
 - [Git](https://packagecontrol.io/packages/Git)
 - [Git​Gutter](https://packagecontrol.io/packages/GitGutter)
 - [Sass](https://packagecontrol.io/packages/Sass)
+- [SCSS](https://packagecontrol.io/packages/SCSS)
 - [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
 - [Sublime​Linter-contrib-eslint_d](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint_d)
