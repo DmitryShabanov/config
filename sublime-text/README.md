@@ -1,4 +1,4 @@
-# Sublime Text
+# SUBLIME TEXT
 
 Configs for Sublime Text editor
 

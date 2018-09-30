@@ -1,4 +1,4 @@
-# Atom
+# ATOM
 
 Configs for Atom editor
 

@@ -1,0 +1,28 @@
+{
+    // Workbench
+    "workbench.colorTheme": "Oceanic Next",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "workbench.startupEditor": "none",
+    "window.newWindowDimensions": "maximized",
+    // Core
+    "editor.tabSize": 2,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 80,
+    "editor.detectIndentation": false,
+    "editor.dragAndDrop": false,
+    "editor.snippetSuggestions": "top",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+    "terminal.explorerKind": "external",
+    // Telemetry
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    // Packages
+    "eslint.autoFixOnSave": true,
+    "workbench.statusBar.feedback.visible": false
+}
