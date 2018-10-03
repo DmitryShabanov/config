@@ -21,6 +21,12 @@
   },
   {
     "key": "shift+cmd+c",
-    "command": "csscomb.execute"
+    "command": "editor.action.formatDocument",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+alt+f",
+    "command": "-editor.action.formatDocument",
+    "when": "editorTextFocus && !editorReadonly"
   }
 ]
