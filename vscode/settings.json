@@ -15,6 +15,7 @@
   "editor.snippetSuggestions": "top",
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
   "css.validate": false,
   "less.validate": false,
   "scss.validate": false,
