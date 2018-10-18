@@ -5,13 +5,15 @@
   "workbench.startupEditor": "none",
   "workbench.statusBar.feedback.visible": false,
   "window.newWindowDimensions": "maximized",
-  "explorer.autoReveal": false,
+  "window.title": "${rootName}${separator}${activeEditorMedium}",
   "editor.tabSize": 2,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.wordWrap": "bounded",
   "editor.wordWrapColumn": 90,
   "editor.dragAndDrop": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.snippetSuggestions": "top",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
@@ -23,5 +25,6 @@
   "telemetry.enableTelemetry": false,
   "prettier.eslintIntegration": true,
   "prettier.stylelintIntegration": true,
-  "git.autofetch": true
+  "git.autofetch": true,
+  "javascript.updateImportsOnFileMove.enabled": "never"
 }

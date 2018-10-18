@@ -59,5 +59,13 @@
     "key": "shift+cmd+\\",
     "command": "-editor.action.jumpToBracket",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+cmd+a",
+    "command": "workbench.actions.view.problems"
+  },
+  {
+    "key": "shift+cmd+m",
+    "command": "-workbench.actions.view.problems"
   }
 ]
