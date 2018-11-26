@@ -23,8 +23,15 @@
   "terminal.explorerKind": "external",
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
   "prettier.eslintIntegration": true,
   "prettier.stylelintIntegration": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
   "git.autofetch": true,
-  "javascript.updateImportsOnFileMove.enabled": "never"
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false
 }
