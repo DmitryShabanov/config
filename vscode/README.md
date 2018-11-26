@@ -8,7 +8,6 @@ Configs for VSCode editor
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 - [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 
