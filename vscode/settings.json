@@ -23,7 +23,6 @@
   "terminal.explorerKind": "external",
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
-  "prettier.semi": false,
   "prettier.singleQuote": true,
   "prettier.eslintIntegration": true,
   "prettier.stylelintIntegration": true,
