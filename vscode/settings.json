@@ -17,20 +17,35 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "terminal.explorerKind": "external",
   "css.validate": false,
   "less.validate": false,
   "scss.validate": false,
-  "terminal.explorerKind": "external",
-  "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
   "prettier.singleQuote": true,
   "prettier.eslintIntegration": true,
   "prettier.stylelintIntegration": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "git.autofetch": true,
-  "javascript.updateImportsOnFileMove.enabled": "never",
-  "git.enableSmartCommit": true,
-  "git.confirmSync": false
+  "colorize.languages": [
+    "javascript",
+    "css",
+    "sass",
+    "scss",
+    "less",
+    "postcss",
+    "sss",
+    "stylus",
+    "xml",
+    "svg"
+  ],
+  "colorize.ignore_search_variables_info": true,
+  "highlight-matching-tag.highlightFromContent": true,
+  "highlight-matching-tag.highlightSelfClosing": true
 }
